@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'WorkSansRegular';
+    src: url('fonts/WorkSansRegular.eot');
+    src: url('fonts/WorkSansRegular.eot') format('embedded-opentype'),
+         url('fonts/WorkSansRegular.woff2') format('woff2'),
+         url('fonts/WorkSansRegular.woff') format('woff'),
+         url('fonts/WorkSansRegular.ttf') format('truetype'),
+         url('fonts/WorkSansRegular.svg#WorkSansRegular') format('svg');
+}
